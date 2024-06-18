@@ -18,19 +18,20 @@ Run the executable generated after building the project. The main window allows 
 - Score Tracking: Keep track of your score in each game.
 
 # Game Rules
-  Tetris
+
+& Tetris
 - Move the pieces left, right, or down using the arrow keys.
 - Rotate pieces using the 'Z' and 'X' keys.
 - Clear lines by filling them completely.
 - The game ends when the pieces reach the top of the screen.
 
-  Puyopuyo
+& Puyopuyo
 - Move the pieces left, right, or down using the arrow keys.
 - Rotate pieces using the 'Z' and 'X' keys.
 - Match four or more of the same color to clear them.
 - The game ends when the pieces reach the top of the screen.
 
-  PuyopuyoTetris
+& PuyopuyoTetris
 - Combines elements of both Puyopuyo and Tetris.
 - Play with both Puyopuyo and Tetris pieces.
 - Clear lines or match colors to score points.
